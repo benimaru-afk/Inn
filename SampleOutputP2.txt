@@ -1,0 +1,287 @@
+Please Login to your Account:
+Enter Your Username:
+>> peyton
+Enter Your Password:
+>> 123
+Enter Your Role:
+>> Receptionist
+Please select an option:
+1 - Book Rooms
+2 - Check In
+3 - Check Out
+4 - Show Status of Room
+5 - Add Guest Info
+6 - Exit
+7 - Shut Down and Save Data
+>> 1
+Please Enter ID: 
+2
+Please Enter Guest ID: 
+2
+Please Enter Payment Status: 
+Unpaid
+Please Enter Room ID: 
+23
+Please Enter Check In Date: DD/MM/YYYY
+08/04/2024
+Please Enter Check In Time: HH:MM (24 time)
+12:00
+Please Enter Check Out Date: DD\MM\YYYY
+09/04/2024
+Please Enter Check Out Time: HH\MM (24 time)
+12:00
+Please Enter Number of Adults: 
+1
+Please Enter Number of Children
+0
+Please Enter Booking Cost: 
+20
+Please select an option:
+1 - Book Rooms
+2 - Check In
+3 - Check Out
+4 - Show Status of Room
+5 - Add Guest Info
+6 - Exit
+7 - Shut Down and Save Data
+>> 2
+Enter your booking ID
+2
+Enter your guest ID
+2
+Booking ID: 2
+Guest ID: 2
+Payment Status: Unpaid
+Room ID: 23
+Check In Time: 8/4/2024 , 12:0
+Check Out Time: 9/4/2024 , 12:0
+Number of Adults: 1
+Number of Children: 0
+Booking Amount: 20.0
+
+Is this information correct? Type yes or no
+yes
+Thank you for confirming!
+2,Michael,Hawk,MH@beta.org,444-444-4444
+
+Is this information correct? Type yes or no
+yes
+
+	Booking Id: 2 Room Id: 23 Payment Status: Unpaid Check In Date DD\MM\YYYY: 8\4\2024 Check In Time(24hr) HH\MM: 12\0
+	Check Out Date DD\\MM\\YYYY: 9\4\2024 Check Out Time(24hr) HH\\MM: 12\0 Number of Adults: 1Number of Children: 0 Booking Amount: 20.0
+
+Your total is 20.0
+Pay the total amount listed on the screen
+Did the user pay the full amount? Enter yes or no
+yes
+Please select an option:
+1 - Book Rooms
+2 - Check In
+3 - Check Out
+4 - Show Status of Room
+5 - Add Guest Info
+6 - Exit
+7 - Shut Down and Save Data
+>> 3
+Enter your booking ID
+2
+Thank you for staying with us!
+2,Michael,Hawk,MH@beta.org,444-444-4444
+
+Is this information correct? Type yes or no
+yes
+
+	Booking Id: 2 Room Id: 23 Payment Status: Paid Check In Date DD\MM\YYYY: 8\4\2024 Check In Time(24hr) HH\MM: 12\0
+	Check Out Date DD\\MM\\YYYY: 9\4\2024 Check Out Time(24hr) HH\\MM: 12\0 Number of Adults: 1Number of Children: 0 Booking Amount: 20.0
+
+Your total is 20.0
+Please select an option:
+1 - Book Rooms
+2 - Check In
+3 - Check Out
+4 - Show Status of Room
+5 - Add Guest Info
+6 - Exit
+7 - Shut Down and Save Data
+>> 4
+Enter the room ID
+23
+Room is available
+Please select an option:
+1 - Book Rooms
+2 - Check In
+3 - Check Out
+4 - Show Status of Room
+5 - Add Guest Info
+6 - Exit
+7 - Shut Down and Save Data
+>> 5
+Please enter GuestID: 
+6
+Please enter First Name: 
+Bulbasaur
+Please enter Last Name: 
+Pokemon
+Please enter Email: 
+bulby@pokemon.org
+Please enter Phone: 
+595-585-7777
+Please select an option:
+1 - Book Rooms
+2 - Check In
+3 - Check Out
+4 - Show Status of Room
+5 - Add Guest Info
+6 - Exit
+7 - Shut Down and Save Data
+>> 6
+Please Login to your Account:
+Enter Your Username:
+>> ben
+Enter Your Password:
+>> 456
+Enter Your Role:
+>> Service
+Please select an option:
+1 - View Clean Status
+2 - Change Clean Status
+3 - Exit
+4 - Shut Down and Save Data
+>> 
+1
+Enter the room ID
+23
+Clean
+Please select an option:
+1 - View Clean Status
+2 - Change Clean Status
+3 - Exit
+4 - Shut Down and Save Data
+>> 
+2
+Enter the room ID
+23
+Enter the new status
+Unclean
+Please select an option:
+1 - View Clean Status
+2 - Change Clean Status
+3 - Exit
+4 - Shut Down and Save Data
+>> 
+3
+Please Login to your Account:
+Enter Your Username:
+>> colon
+Enter Your Password:
+>> 789
+Enter Your Role:
+>> Owner
+Please select an option:
+1 - Print Reports
+2 - View Availability
+3 - Exit
+4 - Shut Down and Save Data
+>> 1
+Do you want to print the yearly, monthly, or weekly report?
+1. Year, 2. Month, 3. Week
+1
+Insert the year you would like printed
+2024
+
+	Booking Id: 11 Room Id: 11 Guest Id: 1 Payment Status: Paid Check In Date DD\MM\YYYY: 2\4\2024 Check In Time(24hr) HH\MM: 12\0
+	Check Out Date DD\\MM\\YYYY: 3\4\2024 Check Out Time(24hr) HH\\MM: 12\0 Number of Adults: 1Number of Children: 0 Booking Amount: 25.0
+
+	Booking Id: 2 Room Id: 23 Guest Id: 2 Payment Status: Paid Check In Date DD\MM\YYYY: 8\4\2024 Check In Time(24hr) HH\MM: 12\0
+	Check Out Date DD\\MM\\YYYY: 9\4\2024 Check Out Time(24hr) HH\\MM: 12\0 Number of Adults: 1Number of Children: 0 Booking Amount: 20.0
+Please select an option:
+1 - Print Reports
+2 - View Availability
+3 - Exit
+4 - Shut Down and Save Data
+>> 2
+Please insert a date to check availability DD/MM/YYYY
+08/04/2024
+Room Number 11
+	Available all day
+Room Number 12
+	Available all day
+Room Number 13
+	Available all day
+Room Number 14
+	Available all day
+Room Number 21
+	Available all day
+Room Number 22
+	Available all day
+Room Number 23
+	Booking Id: 2 Guest Id: 2 Payment Status: Paid Check In Date DD\MM\YYYY: 8\4\2024 Check In Time(24hr) HH\MM: 12\0
+	Check Out Date DD\\MM\\YYYY: 9\4\2024 Check Out Time(24hr) HH\\MM: 12\0 Number of Adults: 1Number of Children: 0 Booking Amount: 20.0
+Room Number 24
+	Available all day
+Please select an option:
+1 - Print Reports
+2 - View Availability
+3 - Exit
+4 - Shut Down and Save Data
+>> 1
+Do you want to print the yearly, monthly, or weekly report?
+1. Year, 2. Month, 3. Week
+2
+Insert the year you would like printed
+2024
+Insert the month you would like printed (1-12)
+04
+
+	Booking Id: 11 Room Id: 11 Guest Id: 1 Payment Status: Paid Check In Date DD\MM\YYYY: 2\4\2024 Check In Time(24hr) HH\MM: 12\0
+	Check Out Date DD\\MM\\YYYY: 3\4\2024 Check Out Time(24hr) HH\\MM: 12\0 Number of Adults: 1Number of Children: 0 Booking Amount: 25.0
+
+	Booking Id: 2 Room Id: 23 Guest Id: 2 Payment Status: Paid Check In Date DD\MM\YYYY: 8\4\2024 Check In Time(24hr) HH\MM: 12\0
+	Check Out Date DD\\MM\\YYYY: 9\4\2024 Check Out Time(24hr) HH\\MM: 12\0 Number of Adults: 1Number of Children: 0 Booking Amount: 20.0
+Please select an option:
+1 - Print Reports
+2 - View Availability
+3 - Exit
+4 - Shut Down and Save Data
+>> 1
+Do you want to print the yearly, monthly, or weekly report?
+1. Year, 2. Month, 3. Week
+3
+Insert the Year you would like printed
+2024
+Insert the Month you would like printed (1-12)
+04
+Insert the Day of the month you would like printed (1-31)
+01
+
+	Booking Id: 11 Room Id: 11 Guest Id: 1 Payment Status: Paid Check In Date DD\MM\YYYY: 2\4\2024 Check In Time(24hr) HH\MM: 12\0
+	Check Out Date DD\\MM\\YYYY: 3\4\2024 Check Out Time(24hr) HH\\MM: 12\0 Number of Adults: 1Number of Children: 0 Booking Amount: 25.0
+
+	Booking Id: 2 Room Id: 23 Guest Id: 2 Payment Status: Paid Check In Date DD\MM\YYYY: 8\4\2024 Check In Time(24hr) HH\MM: 12\0
+	Check Out Date DD\\MM\\YYYY: 9\4\2024 Check Out Time(24hr) HH\\MM: 12\0 Number of Adults: 1Number of Children: 0 Booking Amount: 20.0
+Please select an option:
+1 - Print Reports
+2 - View Availability
+3 - Exit
+4 - Shut Down and Save Data
+>> 3
+Please Login to your Account:
+Enter Your Username:
+>> homie
+Enter Your Password:
+>> 123
+Enter Your Role:
+>> Owner
+Please Login to your Account:
+Enter Your Username:
+>> colon
+Enter Your Password:
+>> 789
+Enter Your Role:
+>> Owner
+Please select an option:
+1 - Print Reports
+2 - View Availability
+3 - Exit
+4 - Shut Down and Save Data
+>> 4
